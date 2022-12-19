@@ -1,1 +1,1 @@
-##Animal Gallery Project##
+## Animal Gallery Project ##
